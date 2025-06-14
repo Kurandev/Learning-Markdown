@@ -24,4 +24,5 @@ for filename in filenames:
 iio.imwrite("bluelock.gif", images, duration= 500, loop = 0)
 ```
 The result of code:
-![BlueLock Gif](Kurandev/Learning-Markdown/blob/start-blog/bluelock.gif)
+
+<img alt="Result of Code" src="https://github.com/Kurandev/Learning-Markdown/blob/start-blog/bluelock.gif?raw=true" width="100" align="left">
